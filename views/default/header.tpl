@@ -20,10 +20,10 @@
         </ul>
 
         <ul id="nav-mobile" class="side-nav">
-            <li><a href="/">首页</a></li>
-            <li><a href="http://shadowsocks.org/en/download/clients.html">客户端下载</a></li>
+            <li><a href="/">母星</a></li>
+            <li><a href="http://shadowsocks.org/en/download/clients.html">喵星能量客户端下载</a></li>
             <li><a href="/code">邀请码</a></li>
-            <li><a href="/user">用户中心</a></li>
+            <li><a href="/user">人类圈养中心</a></li>
         </ul>
         <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
     </div>
