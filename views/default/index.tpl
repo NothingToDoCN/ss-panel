@@ -4,7 +4,7 @@
         <br><br>
         <h1 class="header center orange-text">{$config["appName"]}</h1>
         <div class="row center">
-            <h5 class="header col s12 light">利用喵星的先进技术帮助人类正确地上网<del>,最后统治地球</del>。</h5>
+            <h5 class="header col s12 light">利用喵星的先进科技帮助人类正确地上网<del>,最后统治地球</del>。</h5>
         </div>
         <div class="row center">
             <a href="/auth/register" id="download-button" class="btn-large waves-effect waves-light orange">立即注册Cateye账户,获取喵星能量</a>

@@ -10,6 +10,7 @@
     <link href="/assets/materialize/css/style.css" type="text/css" rel="stylesheet" media="screen,projection"/>
 </head>
 <body>
+<img src="/assets/public/img/logo.jpg" alt="logo" style="display: none;"/>
 <nav class="light-blue lighten-1" role="navigation">
     <div class="nav-wrapper container"><a id="logo-container" href="/" class="brand-logo">{$config["appName"]}</a>
         <ul class="right hide-on-med-and-down">
