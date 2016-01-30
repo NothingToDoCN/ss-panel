@@ -10,9 +10,9 @@
 			<div class="col l3 s12">
 				<h5 class="white-text">用户</h5>
 				<ul>
-					<li><a class="white-text" href="/user">用户中心</a></li>
-					<li><a class="white-text" href="/auth/login">登录</a></li>
-					<li><a class="white-text" href="/auth/register">注册</a></li>
+					<li><a class="white-text" href="/user">人类圈养中心</a></li>
+					<li><a class="white-text" href="/auth/login">登录喵星网络</a></li>
+					<li><a class="white-text" href="/auth/register">注册喵星户籍</a></li>
 				</ul>
 			</div>
 			<div class="col l3 s12">
