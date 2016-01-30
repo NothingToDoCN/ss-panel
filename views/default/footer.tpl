@@ -3,7 +3,7 @@
 		<div class="row">
 			<div class="col l6 s12">
 				<h5 class="white-text">关于</h5>
-				<p class="grey-text text-lighten-4">本站提供某种帐号用于科学上网.</p>
+				<p class="grey-text text-lighten-4">本站提供某种喵星能量体用于科学上网 (不是邪教不是邪教) .</p>
 
 
 			</div>
